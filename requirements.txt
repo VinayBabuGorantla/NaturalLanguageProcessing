@@ -1,0 +1,10 @@
+ipykernel
+numpy
+pandas
+scikit-learn
+nltk
+chardet
+gensim
+tqdm
+bs4
+lxml
